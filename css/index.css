@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple');
+
+:root {
+    font-family: 'Homemade Apple', cursive;
+}
+body {
+    background-color: #AF0D22
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+} 
+p {
+  text-align: right;
+}
+ ul.nav{
+                margin-left: 0px;
+                padding-left: 0px;
+                list-style: none;
+            }
+            .nav li { 
+                float: left;
+            }
+            ul.nav a {
+                display: block;
+                width: 5em;
+                padding:10px;
+                margin: 0 5px;
+                background-color: #f4f4f4;
+                border: 1px dashed #333;
+                text-decoration: none;
+                color: black;
+                text-align: center;
+            }
+            
